@@ -1,0 +1,13 @@
+.main {
+  width: 600px;
+  height: 200px;
+  margin: 0 auto;
+  display: table;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+}
+
+.title {
+  display: table-cell;
+  text-align: center;
+  vertical-align: middle;
+}
